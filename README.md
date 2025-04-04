@@ -22,7 +22,7 @@ This project predicts whether a loan application will be approved based on appli
 ## Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone <repo_link>
+   git clone https://github.com/hardikagarwal2026/LoanAprovalML.git
    cd LoanAprovalML-main
    ```
 2. **Create a virtual environment (optional but recommended)**:
@@ -83,9 +83,6 @@ This project predicts whether a loan application will be approved based on appli
 - Deploying as a web application using Flask or FastAPI.
 - Implementing real-time loan approval predictions.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributors
-- [Your Name]
+- Hardik Agarwal
 - Open to contributors! Feel free to fork and contribute via pull requests.
